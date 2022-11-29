@@ -1,3 +1,3 @@
 # dwm
 my dwm config
-patches: fullgaps and actualfullscreen
+patches: fullgaps, actualfullscreen and systray
